@@ -23,7 +23,7 @@
 ## 📦 安装方式
 
 ```bash
-git clone https://github.com/yourname/bilibili-crawler.git
+git clone https://github.com/VincentCassano/bilibili-crawler.git
 cd bilibili-crawler
 pip install -r requirements.txt
 python bilibili-crawler.py
